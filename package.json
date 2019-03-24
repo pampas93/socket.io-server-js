@@ -1,0 +1,14 @@
+{
+  "name": "socket.io-server",
+  "version": "1.0.0",
+  "description": "Socket.IO server with node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pampas93",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
